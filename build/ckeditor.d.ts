@@ -1,3 +1,3 @@
-declare const ClassicEditor = any;
+declare type ClassicEditor = any;
 
 export = ClassicEditor;
